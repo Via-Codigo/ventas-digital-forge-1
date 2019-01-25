@@ -33,15 +33,17 @@ Aprendemos que es un perfil de comprador, la necesidad de definir uno, los facto
 
 ---
 
-### I. nombre actividad
+### I. Creando un perfil de comprador
 
-Explicación breve actividad
+En parejas, los alumnos crearán el perfil de comprador de su compañero
 
-**Participantes**: #
+**Participantes**: todos en parejas
 
 **Instrucciones**: instrucciones de la actividad
 
 #### Material Actividad
+
+- [Ficha modelo para perfil de comprador](https://docs.google.com/document/d/1KLxmX_vIVDR6uMUeFyayMyjspBC0C26tnJBQuoxkQyI/edit?usp=sharing)
 
 ---
 
