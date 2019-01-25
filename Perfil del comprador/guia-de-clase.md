@@ -13,6 +13,10 @@
 
 Aprendemos que es un perfil de comprador, la necesidad de definir uno, los factores que hay que tener en cuenta para definirlo y la importancia de hacerlo en base a datos reales y no corazonadas.
 
+### Video
+
+[Link al video]()
+
 ### Presentación
 
 [Link a las diapositivas](https://drive.google.com/open?id=1zgtJQyzTubyC6Z-1BaNAlB6B12Kaxy8167YsPqtD90g)

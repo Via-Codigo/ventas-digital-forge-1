@@ -6,6 +6,10 @@
 
 ## Descripción corta
 
+### Video
+
+[Link al video]()
+
 ### Presentación
 
 [Link a las diapositivas]()
