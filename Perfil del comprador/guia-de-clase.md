@@ -44,3 +44,10 @@ Explicación breve actividad
 #### Material Actividad
 
 ---
+
+## Material de lectura
+
+- [¿QUÉ ES EL PERFIL DE COMPRADOR?](http://inbound.hint.mx/blog/qu%C3%A9-es-el-perfil-del-comprador)
+- [¿Qué es “Buyer persona” o el perfil del comprador ideal?](https://www.xplora.eu/que-es-buyer-persona/)
+- [Los cinco perfiles del comprador actual](https://solomarketing.es/los-cinco-perfiles-del-comprador-actual/)
+- [Características del perfil del comprador online peruano](https://destinonegocio.com/pe/negocio-por-internet-pe-pe/marketing-digital-pe/caracteristicas-del-perfil-del-comprador-online-peruano/)
