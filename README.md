@@ -14,15 +14,15 @@ Los objetivos [planteados](https://drive.google.com/open?id=1-yiPAuJs5_cEQ3cwX3y
 - Desarrollar una estrategia de ventas
 - Ser capaz de ejecutar una estrategia de ventas - actividades, KPIs, ROI, etc.
 
-| Código | Tema                                                                                                                             | Descripción                                                                   |
-| ------ | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| 1      | [Perfil del comprador](https://github.com/Via-Codigo/ventas-digital-forge-1/blob/master/Perfil%20del%20cliente/guia-de-clase.md) | Aprendemos que es el perfil de comprador y como se define                     |
-| 2      | Prospección                                                                                                                      | Como identificar si el comprador prospecto encaja en el perfil de comprador   |
-| 3      | Prospección mediante motores de búsqueda                                                                                         | Cómo identificar keywords que encajen con el perfil de comprador              |
-| 4      | Linkedin Sales navigator                                                                                                         | Introducción a la herramienta, prospección, contactando a los prospectos, etc |
-| 5      | Escribiendo correos de ventas                                                                                                    | Como conectar con los prospectos y aumentar mi índice de respuesta?           |
-| 6      | Automatizando correos                                                                                                            | Como aumentar mi índice de conversión enviando correos automatizados          |
-| 7      | Generación de leads                                                                                                              | Como aliarse con el equipo de marketing para generar más leads                |
-| 8      | Leads clasificados                                                                                                               | Cuando un Lead es considerado un lead que clasifica                           |
-| 9      | Entendiendo nas necesidades del comprador                                                                                        | Como averiguar que necesita el comprador y como enfrentar esas necesidades    |
-| 10     | Cerrando el trato                                                                                                                | Como aumentar el número de tratos cerrados                                    |
+| Código | Tema                                                                                                                               | Descripción                                                                   |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 1      | [Perfil del comprador](https://github.com/Via-Codigo/ventas-digital-forge-1/blob/master/Perfil%20del%20comprador/guia-de-clase.md) | Aprendemos que es el perfil de comprador y como se define                     |
+| 2      | Prospección                                                                                                                        | Como identificar si el comprador prospecto encaja en el perfil de comprador   |
+| 3      | Prospección mediante motores de búsqueda                                                                                           | Cómo identificar keywords que encajen con el perfil de comprador              |
+| 4      | Linkedin Sales navigator                                                                                                           | Introducción a la herramienta, prospección, contactando a los prospectos, etc |
+| 5      | Escribiendo correos de ventas                                                                                                      | Como conectar con los prospectos y aumentar mi índice de respuesta?           |
+| 6      | Automatizando correos                                                                                                              | Como aumentar mi índice de conversión enviando correos automatizados          |
+| 7      | Generación de leads                                                                                                                | Como aliarse con el equipo de marketing para generar más leads                |
+| 8      | Leads clasificados                                                                                                                 | Cuando un Lead es considerado un lead que clasifica                           |
+| 9      | Entendiendo nas necesidades del comprador                                                                                          | Como averiguar que necesita el comprador y como enfrentar esas necesidades    |
+| 10     | Cerrando el trato                                                                                                                  | Como aumentar el número de tratos cerrados                                    |
