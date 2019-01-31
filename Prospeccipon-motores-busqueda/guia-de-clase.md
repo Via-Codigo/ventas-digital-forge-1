@@ -36,23 +36,26 @@ Al final el módulo podremos generar una lista de prospectos basada en toda la i
 
 ---
 
-### I. Creando un perfil de comprador
+### I. Detectando keywords en Cocacola y Pepsi
 
-En parejas, los alumnos crearán el perfil de comprador de su compañero
+En grupos de trabajo los alumnos investigarán la web de Coca Cola y Coca Cola Perú para buscar keywords que la empresa esté trabajando.
+En un principio no se facilitará a los alumnos la segunda web de Coca Cola, ya que deben aprender a investigar por su cuenta y llegar a ella.
 
-**Participantes**: todos en parejas
+**Participantes**: todos en grupos
 
-**Instrucciones**: instrucciones de la actividad
+**Instrucciones**: Busca en google la web de Coca Cola para Peru e investiga bien.
 
 #### Material Actividad
 
-- [Ficha modelo para perfil de comprador](https://docs.google.com/document/d/1KLxmX_vIVDR6uMUeFyayMyjspBC0C26tnJBQuoxkQyI/edit?usp=sharing)
+- [Web Coca Cola Peru](http://www.cocacolalatinamerica.com/es/pe/home/)
+- [Web Hisotria de Coa Cola Perú](https://www.cocacoladeperu.com.pe/)
 
 ---
 
 ## Material de lectura
 
-- [¿QUÉ ES EL PERFIL DE COMPRADOR?](http://inbound.hint.mx/blog/qu%C3%A9-es-el-perfil-del-comprador)
-- [¿Qué es “Buyer persona” o el perfil del comprador ideal?](https://www.xplora.eu/que-es-buyer-persona/)
-- [Los cinco perfiles del comprador actual](https://solomarketing.es/los-cinco-perfiles-del-comprador-actual/)
-- [Características del perfil del comprador online peruano](https://destinonegocio.com/pe/negocio-por-internet-pe-pe/marketing-digital-pe/caracteristicas-del-perfil-del-comprador-online-peruano/)
+- [Mega guía: Pasos para hacer una investigación palabras clave eficaz InicioBlogCaptación de traficoSEOMega guía: Pasos para hacer una investigación palabras clave eficaz](https://www.codigonexo.com/blog/captacion-de-trafico/seo/pasos-a-seguir-para-investigacion-palabras-clave-eficaz/)
+- [El poder de las palabras Clave](https://www.codigonexo.com/blog/captacion-de-trafico/seo/que-son-las-palabras-clave/)
+- [Prospección de Clientes: Aprende Cómo Hacerla Correctamente](https://www.genwords.com/blog/prospeccion-de-clientes)
+- [Guía de 10 Pasos para Prospectar en Frío](https://developingthebusiness.com/como-prospectar-en-frio/)
+- [Prospección de mercados internacionales](https://momentozero.uno/e-prospeccion-internacional/)
