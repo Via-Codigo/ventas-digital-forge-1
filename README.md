@@ -14,18 +14,35 @@ Los objetivos [planteados](https://drive.google.com/open?id=1-yiPAuJs5_cEQ3cwX3y
 - Desarrollar una estrategia de ventas
 - Ser capaz de ejecutar una estrategia de ventas - actividades, KPIs, ROI, etc.
 
-| Código | Tema                                                                                                                                                         | Descripción                                                                   |
-| ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
-| 1      | [Perfil del comprador](https://github.com/Via-Codigo/ventas-digital-forge-1/blob/master/Perfil%20del%20comprador/guia-de-clase.md)                           | Aprendemos que es el perfil de comprador y como se define                     |
-| 2      | Prospección                                                                                                                                                  | Como identificar si el comprador prospecto encaja en el perfil de comprador   |
-| 3      | [Prospección mediante motores de búsqueda ](https://github.com/Via-Codigo/ventas-digital-forge-1/blob/master/Prospeccipon-motores-busqueda/guia-de-clase.md) | Cómo identificar keywords que encajen con el perfil de comprador              |
-| 4      | Linkedin Sales navigator                                                                                                                                     | Introducción a la herramienta, prospección, contactando a los prospectos, etc |
-| 5      | Escribiendo correos de ventas                                                                                                                                | Como conectar con los prospectos y aumentar mi índice de respuesta?           |
-| 6      | Automatizando correos                                                                                                                                        | Como aumentar mi índice de conversión enviando correos automatizados          |
-| 7      | Generación de leads                                                                                                                                          | Como aliarse con el equipo de marketing para generar más leads                |
-| 8      | Leads clasificados                                                                                                                                           | Cuando un Lead es considerado un lead que clasifica                           |
-| 9      | Entendiendo las necesidades del comprador                                                                                                                    | Como averiguar que necesita el comprador y como enfrentar esas necesidades    |
-| 10     | Cerrando el trato                                                                                                                                            | Como aumentar el número de tratos cerrados                                    |
+| **Codigo** |               **Nombre**                |                                                                                        **Objetivo**                                                                                         |
+| :--------: | :-------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|     1      |         Yo soy mi primera marca         | Los alumnos aprenden a reconocerse como su propia carta de presentación, cómo se crea y se presenta su persona online y que herramientas deben dominar para poder trabajar de forma digital |
+|    1.1     |        Red Personal de contactos        |                                                            A quiénes conozco? Como organizo esa información? Para que me sirve?                                                             |
+|    1.2     | El medio digital y mi reputación online |                                      Como se crea mi reputación online? Como puedo ganar control de esto? Que debo hacer para potenciar mi reputación?                                      |
+|    1.3     |            Mi stack personal            |                                                          Que herramientas online existen para ser productivo? Como elijo la mejor?                                                          |
+|     2      |              Hacer Empresa              |                                             Los alumnos crearán empresas en grupo, estas servirán de eje para el desarrollo del resto del curso                                             |
+|    2.1     |              Hacer el Plan              |
+|   2.1.1    |        El ecosistema de internet        |
+|   2.1.2    |          Comercio Electrónico           |
+|    2.2     |             Hacer la Marca              |                                      En equipos comenzarán a crear sus empresas y los elementos que deben tener en cuenta para tener mayor fectividad                                       |
+|   2.2.1    |      Producto y Factor diferencial      |                                       Los alumnos elegirán un rubro de empresa y como investigar a su competencia para generar factores diferenciales                                       |
+|   2.2.2    |                Branding                 |                                                            Aprenderán desarrollarán sus logos y documentos de identidad de marca                                                            |
+|   2.2.3    |                  Copy                   |                                                     Desarrollarán sus primero estilos comunicativos que servirán de base para el pitch                                                      |
+|   2.2.4    |            Pitch por dominio            |                                                                     Harán una presentación para el concurso de dominios                                                                     |
+|     3      |       Primera vuelta del Flywheel       |
+|    3.1     |       Stack digital de la empresa       |
+|    3.2     |              Buyer Persona              |
+|    3.3     |        Linkedin Sales navigator         |
+|    3.4     |           Creación de emails            |
+|    3.5     |             lead generation             |
+|    3.6     |               Conversión                |
+|     4      |             Outbound sales              |
+|    4.1     |           contacto telefónico           |
+|    4.2     |   Cara a cara (embajador de la marca)   |
+|     5      |       Segunda vuelta del Flywheel       |
+|    5.1     |         Análisis de resultados          |
+|    5.2     |      Ajustes en base a resultados       |
+|    5.3     |            Reimplementación             |
 
 ## Metodología de trabajo contínuo
 
@@ -35,39 +52,3 @@ Periódicamente (propongo cada 3 clases) deberán de rotar de empresa, aprendien
 ### Empresas tipo:
 
 Los alumnos deberán elegir en grupos una de las empresas tipo y crear Marca, Logo, Lema, Productos o Servicios para la misma.
-
-- Servicios Gastronómicos
-
-  - Eventos/Catering
-  - Corporativo / Personas
-  - Venta de equipo de cocina profesional (Hornos, secadores, extractores, etc)
-
-- Servicios digitales
-
-  - Community management
-  - Webs & Apps
-  - Branding y Diseño
-  - Estrategia de Marketing y Ventas digital
-
-- Sevicios para personal
-
-  - Capacitaciónes/talleres/coaching para el personal
-  - Certificaciones y cursos online para el personal
-
-- Startups
-
-  - Servicios de software de contabilidad en la nube
-  - Servicios de veterinario a domicilio
-  - Servicios de delivery de comida a domicilio
-  - clases de idiomas por internet
-
-- Marca personal/ única
-  - Conferencista famoso sobre motivación
-  - Psicólogo que busca más clientes
-  - Promoción de evento o feria empresarial
-  - Promoción de nuevo producto
-
-## TODO
-
-- Módulo de ventas cara cara
-- Módulo de ventas telefónica

@@ -36,9 +36,9 @@ Al final el módulo podremos generar una lista de prospectos basada en toda la i
 
 ---
 
-### I. Detectando keywords en Cocacola y Pepsi
+### I. Detectando keywords en Coca-Cola
 
-En grupos de trabajo los alumnos investigarán la web de Coca Cola y Coca Cola Perú para buscar keywords que la empresa esté trabajando.
+En grupos de trabajo los alumnos investigarán la web de [Coca Cola](http://www.cocacolalatinamerica.com/es/pe/home/) y Coca Cola Perú para buscar keywords que la empresa esté trabajando.
 En un principio no se facilitará a los alumnos la segunda web de Coca Cola, ya que deben aprender a investigar por su cuenta y llegar a ella.
 
 **Participantes**: todos en grupos
@@ -49,6 +49,29 @@ En un principio no se facilitará a los alumnos la segunda web de Coca Cola, ya 
 
 - [Web Coca Cola Peru](http://www.cocacolalatinamerica.com/es/pe/home/)
 - [Web Hisotria de Coa Cola Perú](https://www.cocacoladeperu.com.pe/)
+
+---
+
+### II. Investigando keywords de la competencia
+
+En grupos de trabajo los alumnos deberán buscar los keywords de distintas empresas.
+
+**Participantes**: todos en grupos
+
+**Instrucciones**: En grupos de trabajo por las empresas que han creado, los alumnos deberán buscar al menos 4 webs de la competencia y buscar que
+keywords parecen estar trabajando.
+
+#### Material de la actividad
+
+---
+
+### III. Desarrollando mis keywords
+
+En grupos de trabajo los alumnos generarán sus propios keywords para competir en el mercado.
+
+**Participantes**: todos en grupos
+
+**Instrucciones**: En grupos de trabajo por las empresas que han creado, crearán una estrategia de keywords basada en lo investigado en el ejercicio anterior.
 
 ---
 
