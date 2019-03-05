@@ -1,10 +1,27 @@
 # Yo soy mi primera Marca
 
+## Objetivos
+
+- Los alumnos se buscan y ven el impacto de sus personas en la red
+- Los alumnos aprenden
+
+## Descripción corta
+
+### Video
+
+[Link al video]()
+
+### Presentación
+
+[Link a las diapositivas]()
+
+## Conceptos
+
 ## Actividades
 
 ---
 
-### Prospección Personal
+### 1. Prospección Personal
 
 Cada alumno debe buscar conocer a otro en **5 minutos** para aprender que tipo de información consideramos relevante para una prospección.
 
@@ -25,11 +42,11 @@ Si la respuesta es positiva o negativa, se le pregunta al alumno: **¿Qué te hi
 
 ---
 
-### Búsqueda del profesor en Google
+### 2. Búsqueda del profesor en Google
 
 El profesor se busca en Google para enseñarles que todos tenemos una marca personal en internet. Este ejercicio sirve como paso previo a la búsqueda de alumnos.
 
-### Busqueda de alumnos en Google
+### 3. Busqueda de alumnos en Google
 
 El profesor realiza búsqueda de algunos alumnos en Google para
 ver que imagen transmiten por internet.
@@ -64,6 +81,46 @@ Si la información del primer alumno voluntario no es mucha, se repite el ejerci
 #### Material Actividad
 
 ---
+
+### 4. Revisión de contactos personales
+
+Los alumnos buscaran sus contactos en el celular para entender que tipo de contactos guardan y como los categorizan.
+
+**Participantes**: Todos los alumnos
+
+**Instrucciones**: El profesor pide a los alumnos que cojan sus celulares y revisen todos sus contactos. Luego se les realizan las siguientes reflexiones:
+
+- ¿Qué tipo de contactos guardan? Son familia, amigos, profesionales, etc
+- ¿Por qué guardo este tipo de contactos?
+- ¿Que tipo de palabras uso para guardar a la gente menos cercana?
+- ¿Qué contactos tengo que no recordaba tener?
+
+### 5. Prospección de figura pública
+
+Se rellenará la [matriz de contactos](https://drive.google.com/open?id=190eqaT24BZbsoaOe0_Ch4RtlX15QxeZAE3F7eNaSjK4) con los datos que encuentren en internet sobre una persona pública que se elija entre todos.
+
+**Participantes**: todos en grupos
+
+**Instrucciones**: Se escoge con los alumnos una figura pública. Luego usando sus teléfonos deberán ayudar al profesor a rellenar la matriz de contactos con la información de esta persona.
+
+#### Material:
+
+- [matriz de contactos](https://drive.google.com/open?id=190eqaT24BZbsoaOe0_Ch4RtlX15QxeZAE3F7eNaSjK4)
+
+### 6. Creación de matriz de contactos personales
+
+Los alumnos aprenderán a crear su primera matriz de contactos personales
+
+**Participantes**: todos de forma individual
+
+**Instrucciones**: Se muestra a los alumnos la [oferta de trabajo](material/perfil-vendedor.jpeg).
+Esto lleva a hablar sobre el valor de la red de contactos personal.
+Se le pide a los chicos que utilicen la [matriz de contactos](https://drive.google.com/open?id=190eqaT24BZbsoaOe0_Ch4RtlX15QxeZAE3F7eNaSjK4) rellenando información sobre 10 contactos de primer nivel, 5 de segundo nivel y 5 de tercer nivel.
+
+#### Material:
+
+- [oferta de trabajo](material/perfil-vendedor.jpeg)
+- [matriz de contactos](https://drive.google.com/open?id=190eqaT24BZbsoaOe0_Ch4RtlX15QxeZAE3F7eNaSjK4)
 
 ## Tareas
 
