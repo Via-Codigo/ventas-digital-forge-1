@@ -46,6 +46,8 @@ Si la respuesta es positiva o negativa, se le pregunta al alumno: **¿Qué te hi
 
 El profesor se busca en Google para enseñarles que todos tenemos una marca personal en internet. Este ejercicio sirve como paso previo a la búsqueda de alumnos.
 
+---
+
 ### 3. Busqueda de alumnos en Google
 
 El profesor realiza búsqueda de algunos alumnos en Google para
@@ -95,6 +97,8 @@ Los alumnos buscaran sus contactos en el celular para entender que tipo de conta
 - ¿Que tipo de palabras uso para guardar a la gente menos cercana?
 - ¿Qué contactos tengo que no recordaba tener?
 
+---
+
 ### 5. Prospección de figura pública
 
 Se rellenará la [matriz de contactos](https://drive.google.com/open?id=190eqaT24BZbsoaOe0_Ch4RtlX15QxeZAE3F7eNaSjK4) con los datos que encuentren en internet sobre una persona pública que se elija entre todos.
@@ -106,6 +110,8 @@ Se rellenará la [matriz de contactos](https://drive.google.com/open?id=190eqaT2
 #### Material:
 
 - [matriz de contactos](https://drive.google.com/open?id=190eqaT24BZbsoaOe0_Ch4RtlX15QxeZAE3F7eNaSjK4)
+
+---
 
 ### 6. Creación de matriz de contactos personales
 
