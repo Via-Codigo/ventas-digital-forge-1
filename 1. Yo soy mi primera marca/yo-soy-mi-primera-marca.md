@@ -5,19 +5,23 @@
 - Los alumnos aprenden que es la presencia online
 - Los alumnos revisan su presencia online
 - Los alumnos aprenden a dar un puntaje a las presencias online
--
+- Los alumnos aprenden a organizar sus contactos en Matrices
 
 ## Descripción corta
 
-### Video
-
-[Link al video]()
+En este primera sesión, los alumnos aprenden que significa tener una presencia online y que factores la componen. Se realizan ejercicios para entender como se gestiona una red personal, y como el rol de vendedor nos hubica en una relación distinta con respecto a nuestros contactos.
 
 ### Presentación
 
 [Link a las diapositivas]()
 
 ## Conceptos
+
+- presencia online
+- marca personal
+- red de contactos
+- hipótesis sobre presonas
+- prospección básica
 
 ## Actividades
 
