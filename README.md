@@ -14,9 +14,9 @@ Los objetivos [planteados](https://drive.google.com/open?id=1-yiPAuJs5_cEQ3cwX3y
 - Desarrollar una estrategia de ventas
 - Ser capaz de ejecutar una estrategia de ventas - actividades, KPIs, ROI, etc.
 
-| **Codigo** |            **Nombre**            |                                                                                        **Objetivo**                                                                                         |
-| :--------: | :------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|   **1**    | [**Yo soy mi primera marca**](#) | Los alumnos aprenden a reconocerse como su propia carta de presentación, cómo se crea y se presenta su persona online y que herramientas deben dominar para poder trabajar de forma digital |
+| **Codigo** |                                                                           **Nombre**                                                                            |                                                                                        **Objetivo**                                                                                         |
+| :--------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|   **1**    | [**Yo soy mi primera marca**](https://github.com/Via-Codigo/ventas-digital-forge-1/blob/master/1.%20Yo%20soy%20mi%20primera%20marca/yo-soy-mi-primera-marca.md) | Los alumnos aprenden a reconocerse como su propia carta de presentación, cómo se crea y se presenta su persona online y que herramientas deben dominar para poder trabajar de forma digital |
 
 ## Metodología de trabajo contínuo
 
