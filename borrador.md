@@ -45,7 +45,6 @@ desarrollo del mercado en internet
 - Linkedin sales
 - Creación de emails
 - Lead generation
-- cara a cara
 - Conversión
 
 ### Outbound sales
