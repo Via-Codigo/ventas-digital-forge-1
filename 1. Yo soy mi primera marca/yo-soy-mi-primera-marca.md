@@ -63,7 +63,7 @@ El profesor irá colocando un puntaje a cada punto de información que encuentre
 | ---------------------------------------- | ------- |
 | Aporta a mi perfil profesional           | 1 pto   |
 | No me queda claro/no aporta ni perjudica | 0 pto   |
-| Juega en contra de mi perfil profesional | 1 pto   |
+| Juega en contra de mi perfil profesional | -1 pto   |
 
 Se muestra el valor general
 
