@@ -13,7 +13,7 @@ En este primera sesión, los alumnos aprenden que significa tener una presencia 
 
 ### Presentación
 
-[Link a las diapositivas]()
+[Link a las diapositivas](https://drive.google.com/open?id=1CPjJGysiddckOUTo0Flt9CC6y725YYBZWQ0XV1d52V0)
 
 ## Conceptos
 
