@@ -13,7 +13,7 @@ En este primera sesión, los alumnos aprenden que significa tener una presencia 
 
 ### Presentación
 
-[Link a las diapositivas](https://drive.google.com/open?id=13Y9Tseq1I1l_4dqqDDmewk-50hdEyjCHXAvO04z2YW4)
+[Link a las diapositivas](https://docs.google.com/presentation/d/1UAeRtU68oW8NULoRUOmwT8-7ZLP_ikXtz105xOvPhTY/edit?usp=sharing)
 
 ## Conceptos
 
@@ -25,18 +25,38 @@ En este primera sesión, los alumnos aprenden que significa tener una presencia 
 
 ## Actividades
 
-### 1. Búsquedas avanzadas de Google
+### 1. Configurando Google
 
-Los alumnos harán búsquedas especializadas usando los operadores avanzados de google.
+El profesor enseña que los resultados de Google son configurables
 
-**Participantes**: Los alumnos se dividen en grupos para realizar búsquedas
+**Participantes**: todos de forma individual
 
 **Instrucciones**: El profesor pregunta a los alumnos:
 
 - ¿Quiénes han configurado google alguna vez? ¿Qué es configurar Google?
 - ¿Quiénes han realizado búsquedas avanzadas? ¿Qué son las búsquedas avanzadas?
 
-Luego del debate se procede a enseñar estos temas.
+Siguiendo los pasos del profesor, los alumnos eligen y comentan sobre los valores de configuración que les parecen más útiles.
+
+### 2. Búsquedas avanzadas de Google
+
+Los alumnos harán búsquedas especializadas usando los operadores avanzados de google.
+
+**Participantes**: Los alumnos se dividen en grupos para realizar búsquedas
+
+1.- 10 gerentes o ejecutivos de marketing en el Perú
+2.- 10 competidores de Fortinet
+3.- Donde comprar un iphone 6 a 20 dólares
+4.- El auto, colegio, trago y árbol de navidad más caros del mundo
+
+Las respuestas a estas búsquedas son:
+
+- "es gerente de marketing" Perú
+- related:fortinet.com
+- iphone 6 \$20
+- \*"más caro del mundo"
+
+---
 
 ## Tareas
 
