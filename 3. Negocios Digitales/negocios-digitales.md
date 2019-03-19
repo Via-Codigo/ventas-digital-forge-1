@@ -66,10 +66,46 @@ A través de indagar sobre las herramientas que usan, se busca ejemplificar como
 
 ## Tareas
 
-### 1. tarea 1
+### 1. Categoriza los siguientes negocios digitales
 
 **Participantes**: todos
 
-**Instrucciones**: INSTRUCCIONES
+**Instrucciones**: Los alumnos deben encontrar en que categoría encajan los negocios digitales listados
+
+#### Categorías
+
+- Venta productos
+- Venta servicios
+- Venta información
+- Venta personas
+
+#### Negocios Digitales
+
+- Wally POS
+- Rosatel
+- OLX
+- adonde vivir
+- Pagalo.pe
+- Culqi
+- AYO mentoring
+- The Gift List
+- Zegel IPAE
+- Misha Rastrera
+- Pixed
+- Equifax
+- El comercio
+- Advance Perú
+- Las traperas
+
+### 2. Encontrar negocios virtuales por categorías
+
+**Participantes**: todos
+
+**Instrucciones**: Los alumnos deben encontrar un ejemplo de página web para cada uno de los siguientes modelos de negocios online:
+
+- Venta productos
+- Venta servicios
+- Venta información
+- Venta personas
 
 ---
