@@ -1,15 +1,9 @@
-# Negocios Digitales
+# Negocios Digitales 1
 
 ## Objetivos
 
 - Los alumnos entienden que necesidades satisface el internet a nivel usuario
 - Los alumnos entienden de forma básica como impacta el Internet en los negocios
-- Los alumnos conocen ejemplos de Negocios Electrónicos en el Perú
-- Los alumnos entienden los principales beneficios del Internet para los negocios
-- Los alumnos entienden el concepto de Ebusiness
-- Los alumnos entienden el concepto de Ecommerce
-- Diferencias entre Marketing Digital y el convencional
-- Mapa del Marketing Digital
 
 ## Descripción corta
 
@@ -23,14 +17,7 @@ Los alumnos aprenden sobre el ecosistema de los negocios electrónicos o por int
 
 - ¿Qué necesidades satisface el internet para los usuarios?
 - Pirámide de Maslow
-- El consumo como consecuencia del aprendizaje
-- Impacto del Internet en los negocios
-- Negocios Electrónicos en el Perú
-- Principales beneficios del Internet para los negocios
-- Ebusiness
-- Ecommerce
-- Diferencias entre Marketing Digital y el convencional
-- Mapa del Marketing Digital
+- Herramientas de trabajo en equipo
 
 ## Actividades
 
@@ -66,38 +53,7 @@ A través de indagar sobre las herramientas que usan, se busca ejemplificar como
 
 ## Tareas
 
-### 1. Categoriza los siguientes negocios digitales
-
-**Participantes**: todos
-
-**Instrucciones**: Los alumnos deben encontrar en que categoría encajan los negocios digitales listados
-
-#### Categorías
-
-- Venta productos
-- Venta servicios
-- Venta información
-- Venta personas
-
-#### Negocios Digitales
-
-- Wally POS
-- Rosatel
-- OLX
-- adonde vivir
-- Pagalo.pe
-- Culqi
-- AYO mentoring
-- The Gift List
-- Zegel IPAE
-- Misha Rastrera
-- Pixed
-- Equifax
-- El comercio
-- Advance Perú
-- Las traperas
-
-### 2. Encontrar negocios virtuales por categorías
+### 1. Encontrar negocios virtuales por categorías
 
 **Participantes**: todos
 
