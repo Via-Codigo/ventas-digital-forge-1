@@ -43,32 +43,26 @@ En grupos los alumnos crearán empresas ficticias basándose en las 4 preguntas 
 
 Van a tener hasta 45 minutos para realizar esta tarea
 
-Aquí hay un listado de [empresas tipo]() que pueden servir de inspiración
+Aquí hay un listado de [empresas tipo](https://github.com/Via-Codigo/ventas-digital-forge-1/blob/master/empresas-tipo.md) que pueden servir de inspiración
 
 ---
-
-### 2. Creación de cuenta modelo de Linkedin
-
-Se creará un perfil de Linkedin modelo para así ver que hay que tener en cuenta cuando se rellena.
 
 ## Tareas
 
-### 1. Ventajas de vender por internet
+### 1. Creación de Branding de la empresa
 
-**Participantes**: todos
+**Participantes**: todos agrupoados por las empresas que crearon
 
-**Instrucciones**: Los alumnos deben encontrar y justificar 5 ventajas de vender por internet
+**Instrucciones**: Los alumnos deberán crear el branding de sus empresas, cumpliendo con los siguientes requisitos:
+
+- Logotipo
+- Paleta de colores
+- Lema
+- Factores Diferenciales
+- Benchmark de la competencia
+
+Y unir todo esto al material creado ya en clase.
+
+3 Grupos presentarán la próxima clase un ppt de dos a tres láminas sus empresas, tendrán 3 minutos para hacer esta presentación.
 
 ---
-
-### 2. Crearse cuenta de Linkedin
-
-**Participantes**: todos
-
-**Instrucciones**: Los alumnos deberán crearse cuentas de Linkedin o editar las que ya tengan para que reflejen un perfil vendedor.
-
-**Material de apoyo**:
-
-- [15 consejos para tener un perfil de LinkedIn perfecto](https://postcron.com/es/blog/perfil-de-linkedin-perfecto/)
-- [Cómo mejorar tu perfil de Linkedin en 8 pasos](https://www.40defiebre.com/como-mejorar-perfil-linkedin)
-- [10 tips para mejorar los perfiles sociales de los profesionales en ventas](https://blog.hootsuite.com/es/profesionales-en-ventas/)
