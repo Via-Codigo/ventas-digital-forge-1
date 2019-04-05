@@ -15,7 +15,7 @@ Los alumnos aprenden sobre el ecosistema de los negocios electrónicos o por int
 
 ### Presentación
 
-[Link a las diapositivas](https://drive.google.com/open?id=1KsnwWzXYkGSE9WHvhC88G30UpHnGOTNpF8qDJ8_wnLc)
+[Link a las diapositivas](https://docs.google.com/presentation/d/1Rl6DHsaWFpGenmMFVtR5r8ZqPMBLP48CabNQpw9cJeg/edit?usp=sharing)
 
 ## Conceptos
 

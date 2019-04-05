@@ -28,6 +28,20 @@ tú empresa
 - Servicios de delivery de comida a domicilio
 - clases de idiomas por internet
 
+### Servicios de Turismo
+
+- Hospedajes
+- Servicios de agencia de turismo
+- Alquiler de equipos para turismo
+
+### Productos
+
+- Marca de ropa
+- Alimentos
+- Bebidas
+- Maquinaria
+- Vehículos
+
 ### Marca personal/ única
 
 - Conferencista famoso sobre motivación
