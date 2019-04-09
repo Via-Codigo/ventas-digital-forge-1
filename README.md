@@ -31,3 +31,13 @@ Periódicamente (propongo cada 3 clases) deberán de rotar de empresa, aprendien
 ### Empresas tipo:
 
 Los alumnos deberán elegir en grupos una de las empresas tipo y crear Marca, Logo, Lema, Productos o Servicios para la misma.
+
+## Listado de empresas sociales con que se trabajará
+
+| Empresa                | rubro                                                                                                                                                                                                                             | website                  | facebook                        | twitter  | otros              |
+| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ | ------------------------------- | -------- | ------------------ |
+| Black Me               | ROPA DE BEBE Y NIÑOS                                                                                                                                                                                                              | https://blackmeperu.com/ | black me peru                   |          |                    |
+| Aceites de la Amazonia | Transformamos recursos de nuestra Amazonía y ofrecemos Productos naturales para el cuidado y belleza personal de la piel y cabello.                                                                                               | en construcción          | por buscar                      |          |                    |
+| Ecoaldeas Perú         | Las mejores rutas eco-turísicas comunitarias en las Montañas Amazónicas dela Región San Martín, Viajes de Estudio para que las Universidades se involucren en el desarrollo rural sostenible y los programas de eco-voluntariado. |                          | www.facebook.com/ecoaldeas.peru | @rponceo |                    |
+| Laurella               | Joyería en plata                                                                                                                                                                                                                  | www.laurella.co          | @laurella.co                    |          | @laurella.blu (ig) |
+| Mama Qucha             | Bolsas reusables que se doblan en pequeño hechas en el penal Virgen del Fátima                                                                                                                                                    | @mamaqucha.peru          |                                 |          |
