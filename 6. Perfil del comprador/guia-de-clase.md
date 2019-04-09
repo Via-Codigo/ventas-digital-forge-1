@@ -15,7 +15,7 @@ Aprendemos que es un perfil de comprador, la necesidad de definir uno, los facto
 
 ### Video
 
-[Link al video]()
+[Link al video](https://www.youtube.com/watch?v=Ar22RULFtlQ)
 
 ### Presentación
 
@@ -43,7 +43,7 @@ En parejas, los alumnos crearán el perfil de comprador de su compañero
 
 #### Material Actividad
 
-- [Ficha modelo para perfil de comprador](https://docs.google.com/document/d/1KLxmX_vIVDR6uMUeFyayMyjspBC0C26tnJBQuoxkQyI/edit?usp=sharing)
+- [Ficha modelo para perfil de comprador](https://docs.google.com/document/d/16LH9F3IKL7wlMkSrnV5Ydi9Y1bK61ZfkDXkZzYIXuTs/edit?usp=sharing)
 
 ---
 
