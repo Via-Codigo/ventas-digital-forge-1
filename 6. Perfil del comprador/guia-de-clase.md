@@ -47,6 +47,18 @@ En parejas, los alumnos crearán perfiles de comprador para su empresa
 
 ---
 
+## Tareas
+
+### Tarea 1
+
+En grupos de empresa deben ajustar/crear/elegir los perfiles de compradores que usarán y validarán
+
+**Participantes**: Todos en grupos de trabajo
+
+**Instrucciones**: En equipos de trabajo por empresa deben crear/elegir/ajustar perfiles de comprador para los productos o servicios de su empresa. Pueden usar los que han preparado en clase, pero deben ponerse todos de acuerdo y elegir las características que consideran más adecuadas.
+
+Estos perfiles son los que utilizarán para sus empresas
+
 ## Material de lectura
 
 - [¿QUÉ ES EL PERFIL DE COMPRADOR?](http://inbound.hint.mx/blog/qu%C3%A9-es-el-perfil-del-comprador)
