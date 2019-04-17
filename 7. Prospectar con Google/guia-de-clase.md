@@ -1,21 +1,25 @@
-# Prospectar con Google
+# Prospección mediante motores de búsqueda
 
-**Módulo [1] - Perfil del comprador**
+**Módulo [3] - Prospección mediante motores de búsqueda**
 
 ## Objetivos
 
-- Los alumnos aprenden que es el perfil del comprador
-- Los alumnos aprenden como definir un perfil de comprador
-- Los alumnos aprenden la necesidad de investigar para construir el perfil del comprador
-- Los alumnos aprenden que puede haber distintos perfiles de comprador para un mismo producto
+- Los alumnos aprenden que son los keywords o palabras clave
+- Los alumnos aprenden a detectar los keywords en la comunicación web de las empresas
+- Los alumnos aprenden a encontrar empresas con los mismos keywords
+- Los alumnos aprenden a comparar keywords por empresas del mismo rubro
+- Los alumnos aprenden a investigar sobre las empresas potenciales
+- Los alumnos aprenden a generar una lista de empresas prospecto basadas en investigación vía motores de búsqueda
 
 ## Descripción corta
 
-Aprendemos que es un perfil de comprador, la necesidad de definir uno, los factores que hay que tener en cuenta para definirlo y la importancia de hacerlo en base a datos reales y no corazonadas.
+Aprendemos como funcionan los motores de búsqueda, que rol cumplen los keywords dentro del sistema de indexación de las webs.
+Esto nos permite ampliar nuestra estrategia de prospección a nuevos públicos objetivo, potenciales clientes y realizar investigación sobre los mismos.
+Al final el módulo podremos generar una lista de prospectos basada en toda la investigación realizada con los motores de búsqueda.
 
 ### Video
 
-[Link al video](https://www.youtube.com/watch?v=Ar22RULFtlQ)
+[Link al video](https://www.youtube.com/watch?v=oHiuI1UTsYg)
 
 ### Presentación
 
@@ -23,45 +27,58 @@ Aprendemos que es un perfil de comprador, la necesidad de definir uno, los facto
 
 ## Conceptos
 
-- Perfil del comprador
-- B2B
-- B2C
-- B2B2C
-- Rol del vendedor en la empresa
+- Motor de Búsqueda
+- Keyword
+- Investigación basada en Keywords
+- Investigación sobre la empresa
 
 ## Actividades
 
 ---
 
-### I. Creando un perfil de comprador
+### I. Detectando keywords en Coca-Cola
 
-En parejas, los alumnos crearán perfiles de comprador para su empresa
+En grupos de trabajo los alumnos investigarán la web de [Coca Cola](http://www.cocacolalatinamerica.com/es/pe/home/) y Coca Cola Perú para buscar keywords que la empresa esté trabajando.
+En un principio no se facilitará a los alumnos la segunda web de Coca Cola, ya que deben aprender a investigar por su cuenta y llegar a ella.
 
-**Participantes**: todos en parejas
+**Participantes**: todos en grupos
 
-**Instrucciones**: Juntense en parejas (o trios en caso de ser 5 por grupo) y creen perfiles de comprador para los productos de su empresa.
+**Instrucciones**: Busca en google la web de Coca Cola para Peru e investiga bien.
 
 #### Material Actividad
 
-- [Ficha modelo para perfil de comprador](https://docs.google.com/document/d/16LH9F3IKL7wlMkSrnV5Ydi9Y1bK61ZfkDXkZzYIXuTs/edit?usp=sharing)
+- [Web Coca Cola Peru](http://www.cocacolalatinamerica.com/es/pe/home/)
+- [Web Hisotria de Coa Cola Perú](https://www.cocacoladeperu.com.pe/)
 
 ---
 
-## Tareas
+### II. Investigando keywords de la competencia
 
-### Tarea 1
+En grupos de trabajo los alumnos deberán buscar los keywords de distintas empresas.
 
-En grupos de empresa deben ajustar/crear/elegir los perfiles de compradores que usarán y validarán
+**Participantes**: todos en grupos
 
-**Participantes**: Todos en grupos de trabajo
+**Instrucciones**: En grupos de trabajo por las empresas que han creado, los alumnos deberán buscar al menos 4 webs de la competencia y buscar que
+keywords parecen estar trabajando.
 
-**Instrucciones**: En equipos de trabajo por empresa deben crear/elegir/ajustar perfiles de comprador para los productos o servicios de su empresa. Pueden usar los que han preparado en clase, pero deben ponerse todos de acuerdo y elegir las características que consideran más adecuadas.
+#### Material de la actividad
 
-Estos perfiles son los que utilizarán para sus empresas
+---
+
+### III. Desarrollando mis keywords
+
+En grupos de trabajo los alumnos generarán sus propios keywords para competir en el mercado.
+
+**Participantes**: todos en grupos
+
+**Instrucciones**: En grupos de trabajo por las empresas que han creado, crearán una estrategia de keywords basada en lo investigado en el ejercicio anterior.
+
+---
 
 ## Material de lectura
 
-- [¿QUÉ ES EL PERFIL DE COMPRADOR?](http://inbound.hint.mx/blog/qu%C3%A9-es-el-perfil-del-comprador)
-- [¿Qué es “Buyer persona” o el perfil del comprador ideal?](https://www.xplora.eu/que-es-buyer-persona/)
-- [Los cinco perfiles del comprador actual](https://solomarketing.es/los-cinco-perfiles-del-comprador-actual/)
-- [Características del perfil del comprador online peruano](https://destinonegocio.com/pe/negocio-por-internet-pe-pe/marketing-digital-pe/caracteristicas-del-perfil-del-comprador-online-peruano/)
+- [Mega guía: Pasos para hacer una investigación palabras clave eficaz InicioBlogCaptación de traficoSEOMega guía: Pasos para hacer una investigación palabras clave eficaz](https://www.codigonexo.com/blog/captacion-de-trafico/seo/pasos-a-seguir-para-investigacion-palabras-clave-eficaz/)
+- [El poder de las palabras Clave](https://www.codigonexo.com/blog/captacion-de-trafico/seo/que-son-las-palabras-clave/)
+- [Prospección de Clientes: Aprende Cómo Hacerla Correctamente](https://www.genwords.com/blog/prospeccion-de-clientes)
+- [Guía de 10 Pasos para Prospectar en Frío](https://developingthebusiness.com/como-prospectar-en-frio/)
+- [Prospección de mercados internacionales](https://momentozero.uno/e-prospeccion-internacional/)
