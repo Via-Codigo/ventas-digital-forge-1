@@ -32,7 +32,7 @@ Periódicamente (propongo cada 3 clases) deberán de rotar de empresa, aprendien
 ## Empresa modelo para tareas
 
 Según vaya avanzando el curso iremos completando las tareas para las empresas modelo.
-Puedes ver como va en este link: []()
+Puedes ver como va en este link: [https://github.com/Via-Codigo/ventas-digital-forge-1/blob/master/empresa-ejemplo-tareas.md](https://github.com/Via-Codigo/ventas-digital-forge-1/blob/master/empresa-ejemplo-tareas.md)
 
 ## Listado de empresas sociales con que se trabajará
 
