@@ -29,6 +29,11 @@ Los objetivos [planteados](https://drive.google.com/open?id=1-yiPAuJs5_cEQ3cwX3y
 Los alumnos desarrollarán sus trabajos para empresas ficticias creados por ellos en base a lineamientos de negocio que nosotros les demos.
 Periódicamente (propongo cada 3 clases) deberán de rotar de empresa, aprendiendo así a adaptarse rápidamente a un nuevo flujo de trabajo y de equipo.
 
+## Empresa modelo para tareas
+
+Según vaya avanzando el curso iremos completando las tareas para las empresas modelo.
+Puedes ver como va en este link: []()
+
 ## Listado de empresas sociales con que se trabajará
 
 | Empresa                         | rubro                                                                                                                                                                                                                             | website                               | facebook                                 | twitter      | Instagram                                 | Plazas llenas |
