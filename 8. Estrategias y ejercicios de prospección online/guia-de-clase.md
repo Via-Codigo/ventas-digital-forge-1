@@ -4,81 +4,73 @@
 
 ## Objetivos
 
-- Los alumnos aprenden que son los keywords o palabras clave
-- Los alumnos aprenden a detectar los keywords en la comunicación web de las empresas
-- Los alumnos aprenden a encontrar empresas con los mismos keywords
-- Los alumnos aprenden a comparar keywords por empresas del mismo rubro
-- Los alumnos aprenden a investigar sobre las empresas potenciales
-- Los alumnos aprenden a generar una lista de empresas prospecto basadas en investigación vía motores de búsqueda
+- Los alumnos desarrollan estrategias de prospección para sus negocios ficticios
+- Los alumnos aprenden a evaluar el potencil de impacto de una estrategia
+- Los alumnos aprenden a prospectar en medios digitales
 
 ## Descripción corta
 
-Aprendemos como funcionan los motores de búsqueda, que rol cumplen los keywords dentro del sistema de indexación de las webs.
-Esto nos permite ampliar nuestra estrategia de prospección a nuevos públicos objetivo, potenciales clientes y realizar investigación sobre los mismos.
-Al final el módulo podremos generar una lista de prospectos basada en toda la investigación realizada con los motores de búsqueda.
-
-### Video
-
-[Link al video](https://www.youtube.com/watch?v=oHiuI1UTsYg)
+Pondremos en práctica lo visto hasta el momento. Pasaremos por las distintas fases del desarrollo de buyer persona, detección de keywords, diseño de estrategia de prospección y prospección.
+Este módulo permitirá acentar conocimientos y trabajar las dusas que surjan.
 
 ### Presentación
 
-[Link a las diapositivas](https://drive.google.com/open?id=1zgtJQyzTubyC6Z-1BaNAlB6B12Kaxy8167YsPqtD90g)
+[Link a las diapositivas]()
 
 ## Conceptos
 
-- Motor de Búsqueda
+- Buyer persona
+- Benchmark
+- Factor diferencial
 - Keyword
 - Investigación basada en Keywords
-- Investigación sobre la empresa
+- Estrategia de prospección
+- Impacto de la estrategia de prospección
+- Prospección
 
 ## Actividades
 
 ---
 
-### I. Detectando keywords en Coca-Cola
+### I. Revisando el Buyer Persona
 
-En grupos de trabajo los alumnos investigarán la web de [Coca Cola](http://www.cocacolalatinamerica.com/es/pe/home/) y Coca Cola Perú para buscar keywords que la empresa esté trabajando.
-En un principio no se facilitará a los alumnos la segunda web de Coca Cola, ya que deben aprender a investigar por su cuenta y llegar a ella.
+En grupos de trabajo por empresas, los alumnos revisarán sus buyer pesona, definiendo sobre cuales trabajaran sus estrategias.
+Sería bueno que cada grupo tenga al menos dos Buyer Persona para así luego desarrollar las siguientes actividades.
 
-**Participantes**: todos en grupos
+**Participantes**: todos en grupos por empresas
 
-**Instrucciones**: Busca en google la web de Coca Cola para Peru e investiga bien.
+**Instrucciones**: En grupo y con ayuda del profesor, revisa y define los Buyer Persona de tu empresa. Deben sentir que está lo suficientemente definido para luego poder realizar la fase de la actividad II.
+Si terminan esta fase pueden parar directamente a la actividad II. Puedes usar de referente los Buyer Persona de ejemplo de la empresa Athelas
 
 #### Material Actividad
 
-- [Web Coca Cola Peru](http://www.cocacolalatinamerica.com/es/pe/home/)
-- [Web Hisotria de Coa Cola Perú](https://www.cocacoladeperu.com.pe/)
+- [Buyer Persona - Empresa Para Website A la Medida](https://docs.google.com/document/d/1mQWM8Px1AzpvgdM0FyaYVzhyvB54FikOJaiKQQA87Kg/edit?usp=sharing)
+- [Buyer Persona - Pequeña/Nueva Empresa Para Website Con AVADA](https://docs.google.com/document/d/1F0g9L0N5nB0Ye9iN9EOzz21Uv5LEn8Pb3Nqy8f7gS04/edit?usp=sharing))
 
 ---
 
-### II. Investigando keywords de la competencia
+### II. Desarrolla estrategias de Prospección
 
-En grupos de trabajo los alumnos deberán buscar los keywords de distintas empresas.
+Para cada Buyer Persona, deben desarrollar al menos (idealmente más) estrategias de prospección de potenciales clientes.
 
-**Participantes**: todos en grupos
+**Participantes**: todos en grupos por empresas
 
-**Instrucciones**: En grupos de trabajo por las empresas que han creado, los alumnos deberán buscar al menos 4 webs de la competencia y buscar que
-keywords parecen estar trabajando.
+**Instrucciones**: Para cada Buyer Persona, deben desarrollar al menos (idealmente más) estrategias de prospección de potenciales clientes. Pueden ver los ejemplos de estrategias de prospección de la empresa Athelas, pero teniendo en cuenta que al apuntar a otro Buyer Persona, no necesariamente sirven más que como ejemplo. Si finalizan la actividad II pueden pasar a la actividad III
 
 #### Material de la actividad
 
+- [Estrategia para empresas que requieren una web sencilla](https://docs.google.com/document/d/1l4Um0ij7GC9ZGEiUB5NtRB5DrwhkMKD_hTuPCrihoJM/edit?usp=sharing)
+
 ---
 
-### III. Desarrollando mis keywords
+### III. Prospección siguiendo la estrategia
 
-En grupos de trabajo los alumnos generarán sus propios keywords para competir en el mercado.
+Deben aplicar las estrategias de prospección que han desarrollado y comenzar a rellenar una matriz con los datos de los potenciales clientes
 
-**Participantes**: todos en grupos
+**Participantes**: todos en grupos por empresas
 
-**Instrucciones**: En grupos de trabajo por las empresas que han creado, crearán una estrategia de keywords basada en lo investigado en el ejercicio anterior.
+**Instrucciones**: En grupos de trabajo por las empresas que han creado, deben aplicar las estrategias de prospección que han desarrollado y comenzar a rellenar una matriz con los datos de los potenciales clientes
 
 ---
 
 ## Material de lectura
-
-- [Mega guía: Pasos para hacer una investigación palabras clave eficaz InicioBlogCaptación de traficoSEOMega guía: Pasos para hacer una investigación palabras clave eficaz](https://www.codigonexo.com/blog/captacion-de-trafico/seo/pasos-a-seguir-para-investigacion-palabras-clave-eficaz/)
-- [El poder de las palabras Clave](https://www.codigonexo.com/blog/captacion-de-trafico/seo/que-son-las-palabras-clave/)
-- [Prospección de Clientes: Aprende Cómo Hacerla Correctamente](https://www.genwords.com/blog/prospeccion-de-clientes)
-- [Guía de 10 Pasos para Prospectar en Frío](https://developingthebusiness.com/como-prospectar-en-frio/)
-- [Prospección de mercados internacionales](https://momentozero.uno/e-prospeccion-internacional/)
