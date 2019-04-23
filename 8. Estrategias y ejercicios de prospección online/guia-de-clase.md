@@ -74,3 +74,9 @@ Deben aplicar las estrategias de prospección que han desarrollado y comenzar a 
 ---
 
 ## Material de lectura
+
+- [prospectar en las Redes Sociales](https://creandoideas.es/blog/razones-prospectar-en-las-redes-sociales/)
+- [Construir una estrategia de prospección eficaz a través de las redes sociales](https://wwwhatsnew.com/2015/04/21/construir-una-estrategia-de-prospeccion-eficaz-a-traves-de-las-redes-sociales/)
+- [¿Cómo montar la mejor estrategia de prospección de clientes?](https://blog.hotmart.com/es/prospeccion-de-clientes/)
+- [10 Consejos para utilizar LinkedIn en la prospección de Ventas](http://ventas20.com/linkedin-en-la-prospeccion-ventas/)
+- [Linkedin Sales navigator VIDEO Transformify](https://www.youtube.com/watch?v=P4DYZx2IWAM)
