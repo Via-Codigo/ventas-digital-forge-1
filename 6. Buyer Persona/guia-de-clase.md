@@ -1,12 +1,12 @@
-# El perfil del comprador
+# El Buyer Persona
 
-**Módulo [1] - Perfil del comprador**
+**Módulo [1] - Buyer Persona**
 
 ## Objetivos
 
-- Los alumnos aprenden que es el perfil del comprador
+- Los alumnos aprenden que es el Buyer Persona
 - Los alumnos aprenden como definir un perfil de comprador
-- Los alumnos aprenden la necesidad de investigar para construir el perfil del comprador
+- Los alumnos aprenden la necesidad de investigar para construir el Buyer Persona
 - Los alumnos aprenden que puede haber distintos perfiles de comprador para un mismo producto
 
 ## Descripción corta
@@ -23,7 +23,7 @@ Aprendemos que es un perfil de comprador, la necesidad de definir uno, los facto
 
 ## Conceptos
 
-- Perfil del comprador
+- Buyer Persona
 - B2B
 - B2C
 - B2B2C
@@ -64,4 +64,4 @@ Estos perfiles son los que utilizarán para sus empresas
 - [¿QUÉ ES EL PERFIL DE COMPRADOR?](http://inbound.hint.mx/blog/qu%C3%A9-es-el-perfil-del-comprador)
 - [¿Qué es “Buyer persona” o el perfil del comprador ideal?](https://www.xplora.eu/que-es-buyer-persona/)
 - [Los cinco perfiles del comprador actual](https://solomarketing.es/los-cinco-perfiles-del-comprador-actual/)
-- [Características del perfil del comprador online peruano](https://destinonegocio.com/pe/negocio-por-internet-pe-pe/marketing-digital-pe/caracteristicas-del-perfil-del-comprador-online-peruano/)
+- [Características del Buyer Persona online peruano](https://destinonegocio.com/pe/negocio-por-internet-pe-pe/marketing-digital-pe/caracteristicas-del-perfil-del-comprador-online-peruano/)
