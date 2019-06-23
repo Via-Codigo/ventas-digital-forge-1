@@ -41,3 +41,7 @@ Puedes ver como va en este link: [https://github.com/Via-Codigo/ventas-digital-f
 En equipos de práctica debo escribir el correo de presentación de mi equipo para iniciar el proceso.
 Hay una plantilla modelo que puedo utilizar.
 - [Plantilla de email para presentarme a empresas](https://docs.google.com/document/d/1vsB0ZxPAR19tFHm8hEI1wysQwsS0TraNs_klQ5TWHvI/edit?usp=sharing)
+
+## Material
+
+- [Cómo escribir un gran correo de marketing (en inglés)](https://docs.google.com/document/d/1PyMCM_by8IabaIrBYpj4QQnm7dP07rOdTdzqZv8dZTs/edit?usp=drivesdk)
