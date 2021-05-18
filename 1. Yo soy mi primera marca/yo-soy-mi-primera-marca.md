@@ -9,7 +9,7 @@
 
 ## Descripción corta
 
-En este primera sesión, los alumnos aprenden que significa tener una presencia online y que factores la componen. Se realizan ejercicios para entender como se gestiona una red personal, y como el rol de vendedor nos hubica en una relación distinta con respecto a nuestros contactos.
+En este primera sesión, los alumnos aprenden que significa tener una presencia online y que factores la componen. Se realizan ejercicios para entender como se gestiona una red personal, y como el rol de vendedor nos ubica en una relación distinta con respecto a nuestros contactos.
 
 ### Presentación
 
